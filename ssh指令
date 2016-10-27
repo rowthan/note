@@ -1,0 +1,10 @@
+找目录：cd /foldername 
+回到上级目录： cd ..
+回到主目录： cd
+展示目录下的文件清单：ll 或 ls
+拷贝文件；cp  file.txt file2.txt
+查看应用日志：tail -f server.log
+查看服务器是否启动：ps -ef|grep serverName
+
+停止服务器： sh shutdownB2BServer55.sh
+启动服务器：
